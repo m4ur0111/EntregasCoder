@@ -293,10 +293,12 @@ footer {
     background-color: #81ab2c;
     color: black;
     cursor: pointer;
+    transition: all 0.5s ease-in-out;
 }
 
 .boton-leermas-cover:hover {
     background: #9e9e9e;
+    transform: scale(1.2);
 }
 
 .video-cover {
